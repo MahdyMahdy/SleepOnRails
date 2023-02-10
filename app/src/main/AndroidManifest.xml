@@ -39,7 +39,7 @@
             android:exported="false"
             android:label="@string/title_activity_maps"
             android:noHistory="true"
-            android:theme="@style/Theme.AppCompat.NoActionBar">
+            android:theme="@style/Theme.Design.NoActionBar">
         </activity>
 
         <receiver android:name=".StopServiceReceiver"
