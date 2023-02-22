@@ -48,7 +48,7 @@ import java.util.Arrays;
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     private ActivityMapsBinding binding;
-    private String api_key = "AIzaSyC0UvsjJ3b5AvV24xe5ohbQkcNYBo2vsh8";
+    private String api_key = "";
     Button start_button;
     SupportMapFragment mapFragment;
     GoogleMap mMap;
